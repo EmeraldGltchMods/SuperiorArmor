@@ -1,0 +1,22 @@
+{
+  "group": "superiorarmor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superiorarmor:obsidion_ingot"
+    },
+    {
+      "item": "superiorarmor:obsidion_ingot"
+    },
+    {
+      "item": "superiorarmor:obsidion_ingot"
+    },
+    {
+      "item": "superiorarmor:obsidion_ingot"
+    }
+  ],
+  "result": {
+    "item": "superiorarmor:obsidion_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_fv": 10,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "obsidion_helmet",
+    "enableBody": true,
+    "textureBody": "obsidion_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "obsidion_leggings",
+    "enableBoots": true,
+    "textureBoots": "obsidion_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "obsidion_",
+    "helmetName": "Obsidion Helmet",
+    "bodyName": "Obsidion Body",
+    "leggingsName": "Obsidion Leggings",
+    "bootsName": "Obsidion Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 32,
+    "damageValueHelmet": 7,
+    "damageValueBody": 11,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 7,
+    "enchantability": 20,
+    "toughness": 2.3000000000000003,
+    "equipSound": {
+      "value": "entity.horse.armor"
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.OBSIDIAN"
+      }
+    ]
+  }
+}

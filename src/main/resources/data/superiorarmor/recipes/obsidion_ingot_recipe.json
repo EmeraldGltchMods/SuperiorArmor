@@ -1,0 +1,12 @@
+{
+  "group": "superiorarmor",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": {
+    "item": "superiorarmor:obsidion_ingot"
+  }
+}

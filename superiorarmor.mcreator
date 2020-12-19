@@ -1,0 +1,113 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ObsidionArmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidion_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ObsidionIngot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidion_ingot"
+    },
+    {
+      "name": "ObsidionHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidion_helmet_recipe"
+    },
+    {
+      "name": "ObsidionChestplateRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidion_chestplate_recipe"
+    },
+    {
+      "name": "ObsidionLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidion_leggings_recipe"
+    },
+    {
+      "name": "ObsidionBootsRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidion_boots_recipe"
+    },
+    {
+      "name": "ObsidionIngotRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidion_ingot_recipe"
+    },
+    {
+      "name": "SuperiorArmor",
+      "type": "tab",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "superior_armor"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabsuperior_armor": "Superior Armor",
+      "item.superiorarmor.obsidion_ingot": "Obsidion Ingot",
+      "item.superiorarmor.obsidion_armor_chestplate": "Obsidion Body",
+      "item.superiorarmor.obsidion_armor_boots": "Obsidion Boots",
+      "item.superiorarmor.obsidion_armor_leggings": "Obsidion Leggings",
+      "item.superiorarmor.obsidion_armor_helmet": "Obsidion Helmet"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "superiorarmor",
+    "modName": "SuperiorArmor",
+    "version": "1.0.0",
+    "author": "EmeraldStanley, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.superiorarmor",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
