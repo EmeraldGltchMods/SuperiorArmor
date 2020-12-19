@@ -7,7 +7,7 @@ version="1.0.0"
 displayName="SuperiorArmor"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="EmeraldStanley, MCreator"
+authors="EmeraldGltch, MCreator"
 
 [[dependencies.superiorarmor]]
     modId="minecraft"
